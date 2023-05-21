@@ -4,11 +4,11 @@ In this project, I'm playing the role of business intelligence analyst for Adven
 ### Objectives:
 ###### •	Connect & Transform the Raw Data
 ###### •	Build a Relational Data Model
-Data modeling for all tables
+###### Data modeling for all tables
 ![Data Modeling all tbl](images/Data Modeling all tbl.png)
-Data Modeling for sales tables
+###### Data Modeling for sales tables
 ![Data modeling sales tbl](images/Data Modeling sales tbl.png)
-Data modeling for returned product
+###### Data modeling for returned product
 ![Data modeling for return table](images/Data modeling for return table.png)
 ###### •	Add Calculated Field with DAX
 ###### •	Design Interactive Power BI Reports
